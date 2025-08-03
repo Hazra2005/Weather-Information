@@ -1,0 +1,8 @@
+Api Link:'https://api.openweathermap.org/data/2.5/weather';
+----------------------------------------------------------
+Api key:c2c27b9fc256758d2c1ee36e10cc64df
+------------------------------------------
+Resisted mail:anusankarhazra24@gmail.com
+Password for Api website login:Anusankar@321
+User id :anu321
+api website link:https://openweathermap.org/api
